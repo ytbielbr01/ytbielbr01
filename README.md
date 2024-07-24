@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o José Gabriel! 🚀
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MN3Kj4VZhJ) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ytbielbr/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ytbielbr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MN3Kj4VZhJ) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/ytbielbr/](https://www.instagram.com/josegabriel.1211/)) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ytbielbr)
 
 ![ytbielbr01 GitHub stats](https://github-readme-stats.vercel.app/api?username=ytbielbr01&show_icons=true&theme=radical)
 
