@@ -1,23 +1,44 @@
-### Olá! Eu sou o José Gabriel! 🚀
+# 👋 Olá, eu sou o José Gabriel!  
 
-Desenvolvedor Web & Software
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josegabriel.dev/) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ytbielbr)
-
----
-
-### Meu trabalho:
-
-Transformo ideias em soluções digitais eficientes e escaláveis.
-
-![ytbielbr01 GitHub stats](https://github-readme-stats.vercel.app/api?username=ytbielbr01&show_icons=true&theme=radical)
+💻 **Desenvolvedor Full Stack & Criador de Soluções Digitais**  
+🚀 Transformo ideias em **projetos funcionais, escaláveis e inteligentes**.  
 
 ---
 
-### Tecnologias que eu uso:
+## 🌟 Sobre mim  
+- 🔧 Trabalho com **Node.js, React, MongoDB e PWAs**  
+- 📦 Crio sistemas personalizados como:  
+  - 🛒 Plataformas de delivery  
+  - 🤖 Bots para Discord  
+  - 🧾 Sistemas de comandas e automações  
+  - 🎮 Plataformas de torneios e campeonatos online  
+- ⚡ Curto transformar **problemas complexos em soluções simples**  
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+---
+
+## 🚀 Minhas estatísticas no GitHub  
+
+![ytbielbr01 GitHub stats](https://github-readme-stats.vercel.app/api?username=ytbielbr01&show_icons=true&theme=radical)  
+
+---
+
+## 🛠️ Tecnologias que eu domino  
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
+## 📲 Onde me encontrar  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josegabriel.dev/)  
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ytbielbr)  
+
+---
+
+💡 *“Cada linha de código é uma peça que constrói o futuro.”*  
